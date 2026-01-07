@@ -1,6 +1,9 @@
 # RuntimeTextEditorUnity
 A plugin that turns any text field in the game editable, meant to streamline writing and localization, by providing text editing functionality within context of a game
 
+https://github.com/user-attachments/assets/7cee7a43-c481-49e9-bbc9-9c09f2c1de6a
+
+
 
 ## Quick Start
 
