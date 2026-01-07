@@ -1,0 +1,94 @@
+{
+    "entries": [
+        {
+            "textID": "title",
+            "languageID": "en",
+            "textContent": "Localization Demo"
+        },
+        {
+            "textID": "title",
+            "languageID": "es",
+            "textContent": "Demo de Localización"
+        },
+        {
+            "textID": "title",
+            "languageID": "fr",
+            "textContent": "Démo de Localisation"
+        },
+        {
+            "textID": "welcome",
+            "languageID": "en",
+            "textContent": "Welcome to the game!"
+        },
+        {
+            "textID": "welcome",
+            "languageID": "es",
+            "textContent": "¡Bienvenido al juego!"
+        },
+        {
+            "textID": "welcome",
+            "languageID": "fr",
+            "textContent": "Bienvenue dans le jeu!"
+        },
+        {
+            "textID": "instructions",
+            "languageID": "en",
+            "textContent": "Click the Edit Mode toggle, then click any text to edit it."
+        },
+        {
+            "textID": "instructions",
+            "languageID": "es",
+            "textContent": "Activa el Modo de Edición y luego haz clic en cualquier texto para editarlo."
+        },
+        {
+            "textID": "instructions",
+            "languageID": "fr",
+            "textContent": "Activez le mode d'édition, puis cliquez sur n'importe quel texte pour le modifier."
+        },
+        {
+            "textID": "score",
+            "languageID": "en",
+            "textContent": "Score: {0}"
+        },
+        {
+            "textID": "score",
+            "languageID": "es",
+            "textContent": "Puntuación: {0}"
+        },
+        {
+            "textID": "score",
+            "languageID": "fr",
+            "textContent": "Score: {0}"
+        },
+        {
+            "textID": "player_stats",
+            "languageID": "en",
+            "textContent": "Player: {0} | Level: {1} | Health: {2}%"
+        },
+        {
+            "textID": "player_stats",
+            "languageID": "es",
+            "textContent": "Jugador: {0} | Nivel: {1} | Salud: {2}%"
+        },
+        {
+            "textID": "player_stats",
+            "languageID": "fr",
+            "textContent": "Joueur: {0} | Niveau: {1} | Santé: {2}%"
+        },
+        {
+            "textID": "start_game",
+            "languageID": "en",
+            "textContent": "Start Game"
+        },
+        {
+            "textID": "start_game",
+            "languageID": "es",
+            "textContent": "Iniciar Juego"
+        },
+        {
+            "textID": "start_game",
+            "languageID": "fr",
+            "textContent": "Commencer le Jeu"
+        }
+    ]
+}
