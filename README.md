@@ -21,15 +21,6 @@ The tool automatically adds:
 - RuntimeTextEditor component
 - BoxCollider2D (for UI text, optional)
 
-### Manual Setup
-
-If you need to add components manually:
-```csharp
-GameObject textObject = /* your text object */;
-textObject.AddComponent();
-textObject.AddComponent(); // Required for click detection
-```
-
 ## Integration Options
 
 ### Option 1: Demo Localization System
@@ -70,12 +61,7 @@ For projects using Unity's official localization system.
 
 1. Install Unity Localization Package via Package Manager
 2. Configure your string tables in Unity's Localization Settings
-3. Add components (use batch tool or manually):
-```csharp
-textObject.AddComponent(); // Unity's component
-textObject.AddComponent();
-textObject.AddComponent();
-```
+3. Add components (use batch tool or manually)
 
 4. Configure the LocalizeStringEvent with your table and entry references
 
